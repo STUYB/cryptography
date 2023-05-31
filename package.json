@@ -1,0 +1,12 @@
+{
+  "name": "security-challenge",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "author": "Youssef Boudiba",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "libsodium-wrappers": "^0.7.11"
+  }
+}
